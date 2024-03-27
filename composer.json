@@ -214,6 +214,7 @@
     "wpackagist-plugin/mw-wp-form": "5.0.4",
     "wpackagist-plugin/my-calendar": "*",
     "wpackagist-plugin/recaptcha-for-mw-wp-form": "*",
+    "wpackagist-plugin/redirection": "*",
     "wpackagist-plugin/reusable-blocks-extended": "*",
     "wpackagist-plugin/seo-simple-pack": "*",
     "wpackagist-plugin/show-current-template": "*",

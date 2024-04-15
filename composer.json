@@ -173,6 +173,18 @@
           "url": "https://downloads.wordpress.org/translation/plugin/xml-sitemap-feed/{%version}/ja.zip"
         }
       }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "koodimonni-plugin-language/flexible-table-block-ja",
+        "type": "wordpress-language",
+        "version": "3.2.0",
+        "dist": {
+          "type": "zip",
+          "url": "https://downloads.wordpress.org/translation/plugin/flexible-table-block/{%version}/ja.zip"
+        }
+      }
     }
 
   ],
@@ -192,6 +204,7 @@
     "koodimonni-plugin-language/wordpress-importer-ja": "*",
     "koodimonni-plugin-language/wp-fastest-cache-ja": "*",
     "koodimonni-plugin-language/xml-sitemap-feed-ja": "*",
+    "koodimonni-plugin-language/flexible-table-block-ja": "*",
     "koodimonni/composer-dropin-installer": "*",
     "oscarotero/env": "^2.1",
     "roots/bedrock-autoloader": "^1.0",
